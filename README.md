@@ -53,4 +53,3 @@ All rights reserved.
 
 This project and its source code may not be copied, modified, or distributed without explicit permission from the creator.
 
-![Uploading Screenshot 2025-09-21 001700.png…]()
