@@ -64,7 +64,7 @@ body {
 }
 
 #search-bar {
-    width: 100%;
+    width: 92%;
     padding: 6px 10px;
     border-radius: 6px;
     border: 1px solid var(--input-border-color);
