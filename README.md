@@ -53,3 +53,4 @@ All rights reserved.
 
 This project and its source code may not be copied, modified, or distributed without explicit permission from the creator.
 
+<img width="2558" height="1373" alt="menu" src="https://github.com/user-attachments/assets/a0fa3cd1-f87b-40e4-ae67-8e39de559d8d" />
